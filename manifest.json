@@ -1,0 +1,16 @@
+{
+    "BundleType": "Application",
+    "AppIcon": {
+        "36x18": "tutorial.png"
+    },
+    "AppName": {
+        "en": "randomify"
+    },
+    "SupportedLanguages": [
+        "en"
+    ],
+	 "RequiredPermissions": [
+			"http://search.twitter.com", 
+			"http://www.longurlplease.com"
+	  ]
+}
